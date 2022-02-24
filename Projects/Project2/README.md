@@ -22,4 +22,4 @@
 6. I clicked `Select an existing security group` then clicked "Swepston-sg"
 7. I pressed `Allocate Elastic IP address`, then `allocate`. I went to the actions drop-down, selected `Associate Elastic IP address`, chose my instance, selected the private IP address and clicked `Associate`
 8. ![Set up instance](images/Instance.PNG)
-10. ![Changed hostname to "swepston-amazonlinux2"](AMI.PNG)
+10. ![Changed hostname to "swepston-amazonlinux2"](images/AMI.PNG)
